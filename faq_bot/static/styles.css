@@ -1,0 +1,26 @@
+/* static/styles.css */
+#chat-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#chat {
+    height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+#user-input {
+    width: 70%;
+    padding: 8px;
+    margin-right: 8px;
+}
+
+#submit-btn {
+    padding: 8px 16px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
